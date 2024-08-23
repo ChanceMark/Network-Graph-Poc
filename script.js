@@ -1,4 +1,3 @@
-// test codding
 document.addEventListener('DOMContentLoaded', function () {
     var cy = cytoscape({
         container: document.getElementById('cy'),
