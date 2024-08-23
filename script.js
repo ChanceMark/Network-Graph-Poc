@@ -14,7 +14,6 @@ document.addEventListener('DOMContentLoaded', function () {
             { data: { source: 'b', target: 'd' } },
             { data: { source: 'c', target: 'e' } }
         ],
-        
         style: [
             {
                 selector: 'node',
@@ -37,7 +36,6 @@ document.addEventListener('DOMContentLoaded', function () {
                 }
             }
         ],
-        
         layout: {
             name: 'grid',
             rows: 3
