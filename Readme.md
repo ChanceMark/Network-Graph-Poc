@@ -62,9 +62,3 @@ For more details, refer to the [Cytoscape JS documentation](https://js.cytoscape
 ## Contributing
 
 Contributions are welcome! Please open an issue or submit a pull request if you have any suggestions or improvements.
-
-## License
-
-This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
-
-Feel free to adjust the repository URL, license details, and other sections to better match your project's specifics.
